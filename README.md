@@ -9,6 +9,7 @@ This repository contains scripts and data for benchmarking Redis as a NoSQL data
 - `persist_write.py`, `persist_check.py`: Persistence mechanism testing
 - `threads_read.py`, `threads_write.py`: Concurrency consistency testing
 - `/pic`: Some experiment result plots
+- `/table`: Some experiment result tables
 
 ## How to Run
 
