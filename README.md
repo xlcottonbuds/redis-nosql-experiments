@@ -14,7 +14,7 @@ This repository contains scripts and data for benchmarking Redis as a NoSQL data
 
 1. Install requirements:  
    `pip install redis pandas tqdm matplotlib numpy`
-2. Start local Redis server
+2. Start local Redis server (Modify the redis.windows.conf file according to the experimental requirements)
 3. Run scripts as needed for each experiment
 
 ## Dataset
